@@ -5,7 +5,7 @@
 ## About myself:
 I've joined RS school recently. I have no experience in IT. I'm currently working as a HR specialist. But I want to develope in the field of IT and now I'm trying to master the basics of HTML, CSS, JS.
 ## Skills:
-_Вasic knowledge__:
+__Вasic knowledge__:
 * HTML
 * CSS
 * JavaScript
